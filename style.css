@@ -44,6 +44,7 @@ body {
   outline: 3px dotted #edb651;
   outline-offset: 1.5px;
   text-align: left;
+  line-height: 20px;
   
 }
 
@@ -107,36 +108,18 @@ h5 a:link {
   color: #360721;
 }
 h5 a:visited {
-  color: #ffdba6;
+  color: #ffcc6e;
 }
 h5 a:hover,
 h5 a:focus {
-  color: #edb651;
-}
-
-
-
-
-
-/* optional button styling like in the preview */
-div.small > img {
-  display: block;
-  margin: 5px auto;
-  border: 2px ridge #5a7678;
-  border-radius: 5px;
-}
-
-section {
-   border: 2px ridge #5a7678;
-  border-radius: 5px;
-  background: linear-gradient(#00323c, #12542b);
-  padding: 5px;
+  color: #81f542;
 }
 
 footer {
   text-align: center;
   margin-bottom: 5vw;
-  font-size: 0.8rem;
+  font-size: 1rem;
+  color: #360721;
 }
 footer a {
   text-decoration: none;
@@ -187,7 +170,8 @@ h5 {
   font-weight: normal;
   text-align: left;
   color: #d3ff82;
-  padding: 35px
+  padding: 35px;
+  line-height: 20px;
 }
 
 /* prevents overflow on smaller screens */
