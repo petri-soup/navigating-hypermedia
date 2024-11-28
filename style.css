@@ -47,9 +47,6 @@ body {
   
 }
 
-.link {
-  color: white;
-}
 
 .container {
   max-width: 90rem;
@@ -106,20 +103,20 @@ header span {
   color: #360721;
 }
 
-a:link,
-a:visited {
-  color: #d3ff82;
+h5 a:link {
+  color: #360721;
 }
-
-nav a:link,
-nav a:visited {
-  color: #d3ff82;
+h5 a:visited {
+  color: #ffdba6;
 }
-nav a:hover,
-nav a:focus {
-  
+h5 a:hover,
+h5 a:focus {
   color: #edb651;
 }
+
+
+
+
 
 /* optional button styling like in the preview */
 div.small > img {
@@ -181,14 +178,7 @@ h4 {
 }
 
 
-h5 a:link,
-h5 a:visited {
-  color: #d3ff82;
-}
-h5 a:hover,
-h5 a:focus {
-  color: #edb651;
-}
+
 
 h5 {
   font-family: "input-mono", monospace;
