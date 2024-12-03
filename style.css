@@ -2,7 +2,7 @@
 
 
   header {
-    background: url("https://cdn.glitch.global/89b1c1b7-8f97-4fca-879c-f09eb58c5e59/cellular.jpg?v=1732765256100");
+    background: url("https://cdn.glitch.global/89b1c1b7-8f97-4fca-879c-f09eb58c5e59/pixel_pureskynight.png?v=1733187036381");
   }
 /* end dark mode styling */
 
@@ -113,8 +113,8 @@ header span {
   right: 0px;
   margin: 10px;
   font-weight: bold;
-  text-shadow: 2px 2px #ff9e54;
-  color: #360721;
+  text-shadow: 2px 2px #26011e;
+  color: #b6ff57;
 }
 
 h5 a:link {
