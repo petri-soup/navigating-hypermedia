@@ -44,7 +44,7 @@ body {
   outline: 3px dotted rgba(38, 5, 29);
   outline-offset: 1.5px;
   text-align: left;
-  line-height: 20px;
+  line-height: 25px;
   
 }
 
@@ -194,13 +194,13 @@ h4 {
 
 h5 {
   font-family: "input-mono", monospace;
-  line-height: 20px;
+  line-height: 25px;
   font-size: 1.1rem;
   font-weight: normal;
   text-align: left;
   color: #d3ff82;
   padding: 35px;
-  line-height: 20px;
+ 
 }
 
 /* prevents overflow on smaller screens */
