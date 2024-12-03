@@ -54,7 +54,7 @@ body {
   max-width: 10%;
   border-radius: 30px;
   margin: 1em auto;
-  outline: 3px dotted #edb651;
+  outline: 3px dotted rgba(38, 5, 29);
   outline-offset: 1.5px;
   text-align: center;
   line-height: 20px;
@@ -175,19 +175,20 @@ h2 {
   border-radius: 5px;
   margin: 0.1em auto;
   border: 1px dashed #edb651;
-  color: #26051d;
+  color: #d3ff82;
 }
 
 
 h4 {
   font-family: "input-mono", monospace;
-  font-size: 1.2rem;
-  color: #ffcc6e;
-  padding-left: 12px;
-  line-height: 19px;
-   text-align: left;
+  line-height: 20px;
+  font-size: 1.1rem;
+  font-weight: normal;
+  text-align: center;
+  color: #d3ff82;
+  padding: 35px;
+  line-height: 20px;
 }
-
 
 
 
