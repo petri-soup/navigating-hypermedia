@@ -65,7 +65,7 @@ body {
 .container {
   max-width: 90rem;
   margin: 5vw auto 12px auto;
-  border: 2px solid #edb651;
+ 
   border-radius: 10px;
   display: flex;
   flex-wrap: wrap;
