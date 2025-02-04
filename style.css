@@ -160,7 +160,7 @@ h5,
 h6,
 p {
   margin: 5px;
-  line-height: 1.2;
+ 
 }
 
 
@@ -181,12 +181,12 @@ h2 {
 
 h4 {
   font-family: "input-mono", monospace;
-  line-height: 20px;
-  font-size: 1.1rem;
+  line-height: 5px;
+  font-size: 0.8rem;
   font-weight: normal;
   text-align: center;
   color: #d3ff82;
-  padding: 35px;
+  padding: 3px;
   line-height: 20px;
 }
 
@@ -194,8 +194,8 @@ h4 {
 
 h5 {
   font-family: "input-mono", monospace;
-  line-height: 25px;
-  font-size: 1.1rem;
+  line-height: 23px;
+  font-size: 1rem;
   font-weight: normal;
   text-align: left;
   color: #d3ff82;
@@ -206,7 +206,14 @@ h5 {
 /* prevents overflow on smaller screens */
 img {
   max-width: 100%;
-  margin:0 auto
+ margin:0 auto;
+ 
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
 pre {
   overflow-x: auto;
